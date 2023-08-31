@@ -10,7 +10,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. The 
 
 ## Demo
 
-You can check out the live demo of the portfolio [here](https://sagnik-das-portfolio.netlify.app/).
+You can check out the live demo of the portfolio [here](https://bipasha-sinha-portfolio.netlify.app/).
 
 ## Features
 
@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/bipsig/my-portfolio.git
+git clone https://github.com/bipasha525/my-portfolio.git
 ```
 
 2. Open the index.html file in your web browser.
